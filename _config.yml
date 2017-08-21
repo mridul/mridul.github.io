@@ -6,6 +6,7 @@ description: Posts on topics sampled uniformly at random*
 logo: bio-photo-min.png
 search: true
 url: https://mridul.github.io
+comments: true
 
 # Jekyll configuration
 
@@ -39,7 +40,7 @@ owner:
   name: Mridul Kapoor
   avatar: #bio-photo-min.png
   email: #you@email.com
-  disqus-shortname:
+  disqus-shortname: mrid
   twitter: mridulkapoor
   facebook: #username
   github: mridul
